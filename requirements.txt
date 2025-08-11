@@ -1,0 +1,4 @@
+# librerias de python
+streamlit
+google-generativeai
+python-dotenv
